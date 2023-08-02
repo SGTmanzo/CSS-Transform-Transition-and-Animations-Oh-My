@@ -11,6 +11,10 @@ body  {
   overflow: hidden;
 }
 
+.image-text {
+  position: relative;
+}
+
 img {
   width: 80%;
 }
@@ -20,6 +24,8 @@ button {
   margin: .2em;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5em;
+  background-color: ghostwhite;
+  transition: all 2s ease-in-out 2s;
 }
 
 button:hover {

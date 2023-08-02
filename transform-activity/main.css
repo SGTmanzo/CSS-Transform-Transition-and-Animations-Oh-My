@@ -10,7 +10,7 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
-  transform: skew(10em,20em);
+  transform: skew(5deg, -15deg);
 }
 
 main > div {
